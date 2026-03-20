@@ -1,9 +1,13 @@
-<img src="avatar.svg" width="100" height="100" alt="B" align="left" hspace="16" />
+<p align="center">
+  <img src="avatar.svg" width="100" height="100" alt="B" />
+</p>
 
-## Bob Chen
+<h1 align="center">Bob Chen</h1>
 
-<sub>Software engineer specialising in AI enablement, financial & legal technology<br/>
-Currently building AI developer tools and consumer products at scale at Macquarie Bank.</sub>
+<p align="center">
+  <sub>Software engineer specialising in AI enablement, financial & legal technology<br/>
+  Currently building AI developer tools and consumer products at scale at Macquarie Bank.</sub>
+</p>
 
 ---
 
